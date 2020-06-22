@@ -35,7 +35,7 @@ class download:
 			_req = requests.get(url,
 				headers =
 					{
-						"User-Agent":"Mozilla/5.0 (Linux; Android 10; Redmi 7)"
+						"User-Agent":"Mozilla/5.0 (Linux; Android 10; Pixel 4 XL)"
 					}
 			)
 			if _req.status_code == 200:
