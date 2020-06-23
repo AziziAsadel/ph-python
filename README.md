@@ -5,7 +5,7 @@ Note ! If you want to run this tool, use VPN
 </pre>
 ## Requirements
 <pre>
-• bs4
+
 • requests
 </pre>
 ## Used Python
