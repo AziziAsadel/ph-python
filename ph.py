@@ -5,7 +5,7 @@
 try :
      import requests,re,os,sys,re,json,subprocess
 except:
-    os.system("pip install requests;pip install bs4")
+    os.system("pip install requests")
 
 inp=None
 
