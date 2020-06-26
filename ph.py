@@ -3,7 +3,7 @@
 #jkt48zee @ Telegram
 
 try :
-     import requests,re,os,sys,re,json,subprocess
+     import os,requests,re,sys,re,json,subprocess
 except:
     os.system("pip install requests")
 
