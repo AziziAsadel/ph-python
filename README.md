@@ -5,7 +5,6 @@ Note ! If you want to run this tool, use VPN or DNS
 </pre>
 ## Requirements
 <pre>
-
 • requests
 </pre>
 ## Used Python
