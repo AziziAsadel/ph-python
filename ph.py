@@ -1,4 +1,5 @@
 #!/bin/python
+#Special Thanks For Deray
 #Recoded By Azizi Asadel
 #jkt48zee @ Telegram
 
